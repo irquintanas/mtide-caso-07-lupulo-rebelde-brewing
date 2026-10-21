@@ -1,0 +1,12 @@
+{
+ "num": 7,
+ "empresa": "Lúpulo Rebelde Brewing",
+ "subtitulo": "cervecería artesana",
+ "contexto": "Lúpulo Rebelde quiere su parte de producción cargado solo. Y ha puesto **sondas de temperatura** en los fermentadores: cada estilo tiene su rango y salirse de él estropea el lote.",
+ "preguntas": [
+  "¿Qué **estilo** deja menos ingreso por litro?",
+  "¿Qué **cervecero** gasta más malta por litro?",
+  "¿Qué **fermentador** acumula más incidencias por cada 10.000 litros?",
+  "¿Qué **lote** ha pasado más tiempo fuera del rango de temperatura de su estilo, y **cuántos litros** arriesga? Ojo con la sonda rara: no confundas un problema de unidades con un problema de fermentación."
+ ]
+}
